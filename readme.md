@@ -7,4 +7,3 @@
 
 ------
 
-![](C:\Users\lisfl\OneDrive\Área de Trabalho\DESAFIO 7 DIAS\DIA2_\projeto2\Relógio Analógico - 127.0.0.1.png)
